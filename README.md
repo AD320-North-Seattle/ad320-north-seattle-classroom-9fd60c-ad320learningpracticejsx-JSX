@@ -1,4 +1,4 @@
-# 355SDEV_Intro_to_React
+# Intro_to_React
 
 ### Objective:
 
@@ -64,10 +64,10 @@ The component below renders a `<div>` containing an `<h1>` with the text **"Hell
 
 All DOM manipulation is handled by React under the hood using something called the **Virtual DOM**, which we’ll cover in more detail in a later lesson.
 
-// A component can be defined using the function keyword or an arrow function
+
 
 ```
-
+// A component can be defined using the function keyword or an arrow function
 function MyFirstComponent() {
   // JSX is returned inside a pair of parentheses, unless it fits on a single line.
   // The JSX must have a single outer tag that wraps all other elements.
